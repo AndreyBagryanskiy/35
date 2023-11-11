@@ -22,5 +22,4 @@ int main(){
     for(auto i: *getVec){
         std::cout << i << " ";
     }
-
 }
